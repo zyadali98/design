@@ -11,7 +11,7 @@
 	background-position: center;	
 }
 .navbar{
-	width: 80%;
+	width: 85%;
 	margin: auto;
 	padding: 15px 0;
 	display: flex;
@@ -19,7 +19,7 @@
 	justify-content: space-between;
 }
 .logo{
-	width: 105px;
+	width: 130px;
 	color: white;
 
 }
