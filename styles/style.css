@@ -11,7 +11,7 @@
 	background-position: center;	
 }
 .navbar{
-	width: 85%;
+	width: 50%;
 	margin: auto;
 	padding: 35px 0;
 	display: flex;
@@ -19,7 +19,7 @@
 	justify-content: space-between;
 }
 .logo{
-	width: 120px;
+	width: 105px;
 	color: white;
 
 }
@@ -57,13 +57,14 @@
 	color: #fff;
 }
 .content h1{
-	font-size: 70px;
+	font-size: 40px;
 	margin-top: 80px;
 }
 .content p{
 	margin: 20px auto;
 	font-weight: 100;
 	line-height: 25px;
+        Padding : 6px;
 }
 button{
 	width: 200px;
