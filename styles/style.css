@@ -11,7 +11,7 @@
 	background-position: center;	
 }
 .navbar{
-	width: 50%;
+	width: 90%;
 	margin: auto;
 	padding: 35px 0;
 	display: flex;
@@ -28,6 +28,7 @@
 	display: inline-block;
 	margin: 0 20px;
     position: relative;
+    font-size: 5px;
 }
 .navbar ul li a{
 	text-decoration: none;
